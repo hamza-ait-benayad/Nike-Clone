@@ -1,8 +1,15 @@
-# React + Vite
+# Nike Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description: A modern web application designed to showcase and sell Nike shoes, featuring a user-friendly interface and smooth navigation.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Responsive Design: Optimized for mobile and desktop viewing.
+Dynamic Navigation: Hamburger menu for mobile devices.
+Product Display: Interactive shoe showcase with detailed product descriptions.
+Statistics Section: Highlights key product statistics.
+User-Friendly UI: Intuitive navigation and layout for a seamless shopping experience.
+Technologies Used
+Frontend: React.js, Tailwind CSS
+Assets: Images and icons for branding and navigation.
+State Management: React hooks for managing component states.
+Hosting: https://nike-clone24.netlify.app/

@@ -26,7 +26,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="text-white mt-16 flex  justify-start gap-14 ">
+        <div className="text-white mt-16 flex max-sm:grid grid-cols-2 justify-start gap-14 ">
           {footerLinks.map((footerLink) => (
             <div key={footerLink.title} className="flex flex-col">
               <h3 className="text-3xl font-montserrat">{footerLink.title}</h3>

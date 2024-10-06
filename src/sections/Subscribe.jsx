@@ -8,7 +8,7 @@ const Subscribe = () => {
       </h3>
       <div
         className="flex gap-5 items-center p-2.5 lg:max-w-[40%] w-full 
-      rounded-full sm:border sm:border-slate-gray"
+      rounded-full sm:border sm:border-slate-gray max-sm:flex-col"
       >
         <input type="text" className="input" placeholder="subscribe@nike.com" />
         <div className="flex max-sm:justify-end items-center max-sm:w-full">

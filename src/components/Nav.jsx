@@ -5,7 +5,7 @@ import { navLinks } from "../constants/index";
 import { useState } from "react";
 
 const Nav = () => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
   return (
     <>
       <header className="padding-x py-8 fixed z-50 w-full bg-white mb-25">
